@@ -15,6 +15,9 @@ terraform {
    }
  }
 }
+
+az login -u Conkeya -p Rommel99!@
+
 provider "azurerm" {
   features {}
 }
